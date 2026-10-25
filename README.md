@@ -29,14 +29,5 @@ npm start
 Open the address shown in the terminal (for example `http://192.168.0.10:3000`), set the PS4 IP in **Settings**,
 then **Install plugin on the PS4**. Add `?lang=en` to the address to switch language.
 
-**Security:** the panel has no login. Use it only on a trusted home network and never expose it to the internet.
-
-**Not included in this repository (on purpose)**
-- The `toypad_emu` plugin, by [RadiantDelux](https://github.com/RadiantDelux/Lego-Patcher) (no license declared).
-  The panel downloads it from the author's repository when you press *Install* and checks its SHA-256.
-- Figure photos and the background artwork. The panel works without them (figures show their initials). To use your
-  own, put images in `portraits/` named `12-Name.png` (character, 12 = ID) or `v1001-Name.png` (vehicle/gadget), or run
-  `node tools/import-photos.js <folder>` to import images named after the figures. The "Game artwork" background needs
-  `assets/splash.jpg`; use **My image** instead if you don't have it.
 
 Full documentation (Portuguese): [LEIA-ME.md](LEIA-ME.md) · Credits: [THIRD_PARTY.md](THIRD_PARTY.md)
