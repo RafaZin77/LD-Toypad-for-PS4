@@ -420,22 +420,3 @@ Créditos e licenças: veja `THIRD_PARTY.md`.
 - LEGO Dimensions, as fotos e a arte pertencem aos seus respectivos detentores. Detalhes e licenças em `THIRD_PARTY.md`.
 
 Para mudar o texto que aparece no painel, edite `credits.json` e reinicie o servidor.
-
-## Ideias para as próximas versões
-
-Em ordem aproximada de utilidade para o dia a dia (a primeira coluna é só uma estimativa de esforço). Já feitas:
-favoritos e recentes, busca por habilidade e instalação como app.
-
-| Esforço | Ideia | O que muda para você |
-|---|---|---|
-| Médio | **Equipes salvas** | Guardar um conjunto de até 7 figuras (ex.: "Time Batman") e aplicar no pad com um toque |
-| Médio | **Trocar a foto direto no painel** | Enviar uma imagem para qualquer figura sem mexer em pastas; ideal no celular |
-| Médio | **Filtro por várias habilidades** | Pedir "voar **e** superforça" ao mesmo tempo, para achar a figura certa para um puzzle |
-| Médio | **Status do plugin** | Mostrar se o plugin está instalado e na versão analisada, e avisar quando houver versão nova |
-| Médio | **Achar o PS4 na rede** | Botão que procura o PS4 com a porta 2121 aberta, sem digitar o IP |
-| Médio | **Exportar e importar** | Salvar em um arquivo o tema, as favoritas, as equipes e os veículos montados, para trocar de aparelho ou fazer backup |
-| Médio | **PIN de acesso** | Um código simples para o painel, útil se a rede da casa tiver visitas |
-| Baixo | **Revisão das traduções** | Um falante nativo de inglês e de espanhol revisa os textos e as habilidades, e ajusta no `public/i18n.js` |
-| Baixo | **Detectar o idioma do navegador** | Opcional: abrir já em inglês ou espanhol conforme o aparelho, sem mudar o padrão de quem já usa em português |
-| Médio | **HTTPS opcional** | Liberar a instalação completa do app também em endereços da rede local (exige confiar num certificado no aparelho) |
-| Alto | **Montagem de veículos** | Escolher a forma montada e as melhorias de cada veículo antes de colocar no pad (o catálogo tem os dados de reconstrução) |
