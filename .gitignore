@@ -1,0 +1,24 @@
+# Dependências (cada pessoa roda "npm install")
+node_modules/
+
+# Dados do SEU uso: configuração (inclui a senha do FTP), tema, favoritas, dumps das figuras
+data/*
+!data/.gitkeep
+library/*
+!library/.gitkeep
+
+# Plugin de terceiros (sem licença declarada): o painel baixa do GitHub do autor na instalação
+plugin/*.prx
+
+# Imagens de terceiros (autoria e licença não verificadas). Ficam no seu computador, mas não vão para o GitHub.
+# Se você tem o direito de publicá-las, apague as 3 linhas abaixo.
+portraits/*
+!portraits/CREDITOS.txt
+assets/splash.jpg
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/

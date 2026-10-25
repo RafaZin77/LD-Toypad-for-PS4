@@ -1,0 +1,4 @@
+Fotos dos personagens e imagens dos veiculos e gadgets - fornecidas por RafaZin77.
+Personagens: pacote LSWTCS_DefaultRing (nome do arquivo = ID). Veiculos e gadgets: pacote IMAGENS (importado por nome com tools/import-photos.js).
+Autoria original e licenca nao verificadas; as imagens pertencem aos respectivos detentores. Uso pessoal. Veja THIRD_PARTY.md.
+Painel criado por RafaZin77.

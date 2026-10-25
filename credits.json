@@ -1,0 +1,76 @@
+{
+  "author": "RafaZin77",
+  "tagline": {
+    "pt": "Painel criado por",
+    "en": "Panel created by",
+    "es": "Panel creado por"
+  },
+  "credits": [
+    {
+      "role": {
+        "pt": "Painel e interface",
+        "en": "Panel and interface",
+        "es": "Panel e interfaz"
+      },
+      "name": "RafaZin77",
+      "footer": false
+    },
+    {
+      "role": {
+        "pt": "Ícones do app",
+        "en": "App icons",
+        "es": "Iconos de la app"
+      },
+      "name": {
+        "pt": "criados para este painel",
+        "en": "made for this panel",
+        "es": "creados para este panel"
+      }
+    },
+    {
+      "role": {
+        "pt": "Imagens dos personagens e dos veículos",
+        "en": "Character and vehicle images",
+        "es": "Imágenes de personajes y vehículos"
+      },
+      "name": {
+        "pt": "fornecidas por RafaZin77",
+        "en": "provided by RafaZin77",
+        "es": "proporcionadas por RafaZin77"
+      }
+    },
+    {
+      "role": {
+        "pt": "Plugin toypad_emu (GoldHEN)",
+        "en": "toypad_emu plugin (GoldHEN)",
+        "es": "Plugin toypad_emu (GoldHEN)"
+      },
+      "name": "RadiantDelux"
+    },
+    {
+      "role": {
+        "pt": "Lista de IDs das figuras",
+        "en": "Figure ID list",
+        "es": "Lista de IDs de las figuras"
+      },
+      "name": {
+        "pt": "Berny23 e colaboradores (LD-ToyPad-Emulator)",
+        "en": "Berny23 and contributors (LD-ToyPad-Emulator)",
+        "es": "Berny23 y colaboradores (LD-ToyPad-Emulator)"
+      }
+    },
+    {
+      "role": {
+        "pt": "Cifra dos IDs de personagem",
+        "en": "Character ID cipher",
+        "es": "Cifrado de los IDs de personaje"
+      },
+      "name": "node-ld (Adam Shumann)"
+    }
+  ],
+  "legal": {
+    "pt": "LEGO Dimensions, as fotos e a arte pertencem aos seus respectivos detentores.",
+    "en": "LEGO Dimensions, the photos and the artwork belong to their respective owners.",
+    "es": "LEGO Dimensions, las fotos y el arte pertenecen a sus respectivos titulares."
+  }
+}

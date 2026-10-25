@@ -1,0 +1,21 @@
+{
+  "name": "ld-ps4-toypad",
+  "version": "1.5.0",
+  "author": "RafaZin77",
+  "description": "Painel web (celular/PC) para o plugin toypad_emu do LEGO Dimensions no PS4 (GoldHEN)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate": "node tools/generate.js",
+    "test": "node test/selftest.js",
+    "test:i18n": "node test/i18n-check.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "basic-ftp": "^5.0.5",
+    "express": "^4.21.2"
+  }
+}

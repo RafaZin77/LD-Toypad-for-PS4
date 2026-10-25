@@ -1,0 +1,2 @@
+Opcional: coloque aqui o arquivo toypad_emu.prx para instalar sem internet.
+Sem ele, o painel baixa o plugin do GitHub (RadiantDelux/Lego-Patcher) e confere o hash SHA-256.
