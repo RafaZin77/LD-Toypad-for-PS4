@@ -1,4 +1,4 @@
-# LEGO Dimensions Toy Pad for PS4 (GoldHEN plugin)
+# LEGO Dimensions Toy Pad for PS4 (GoldHEN Plugin)
 
 **Created by RafaZin77** · MIT license (code only, see [THIRD_PARTY.md](THIRD_PARTY.md))
 
